@@ -1,6 +1,6 @@
 nameSearch
 ===========
-
+Parse and return names offset within a text document
 
  
  >USAGE:
